@@ -9,5 +9,6 @@ In my free time, I'm into reading (📚), running (🏃‍♂️), yoga (🧘‍
 
 ### Languages and Tools:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matsuboshi&langs_count=5&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matsuboshi&langs_count=9&theme=radical)
+
 
