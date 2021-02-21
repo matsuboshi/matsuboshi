@@ -11,4 +11,7 @@ In my free time, I'm into reading (📚), running (🏃‍♂️), yoga (🧘‍
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matsuboshi&langs_count=8&theme=radical)
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/matsuboshi/count.svg" />
+</p>
