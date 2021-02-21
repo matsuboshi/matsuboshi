@@ -15,3 +15,5 @@ In my free time, I'm into reading (📚), running (🏃‍♂️), yoga (🧘‍
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/matsuboshi/count.svg" />
 </p>
+
+![Visitor Count](https://profile-counter.glitch.me/matsuboshi/count.svg)
